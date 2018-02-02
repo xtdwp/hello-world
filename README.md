@@ -1,2 +1,7 @@
-# hello-world
-我的第一个git库
+include<iostream>
+
+int main()
+{
+  std::cout << "Hello, World!" << std::endl;
+  return 0;
+}
